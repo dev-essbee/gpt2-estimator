@@ -4,4 +4,3 @@ requests
 regex
 tqdm
 protobuf
-
